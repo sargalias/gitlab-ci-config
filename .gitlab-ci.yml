@@ -1,6 +1,10 @@
 image: node:alpine
 # image: node:latest
 
+variables:
+  npm_config_cache: /builds/sargalias/gitlab-ci-config/.npm
+  CYPRESS_CACHE_FOLDER: /builds/sargalias/gitlab-ci-config/cache/Cypress
+
 cache:
   paths:
     - .npm
