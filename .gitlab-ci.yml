@@ -11,7 +11,7 @@ stages:
 before_script:
   - npm install
 
-empty_job:
+unit_integration_tests:
   stage: test
   script:
-    - ''
+    - npm run test
