@@ -22,6 +22,10 @@ unit_integration_tests:
   stage: test
   script:
     - npm run test
+  coverage: /All files\s*\|\s*([\d\.]+)/
+  artifacts:
+    paths:
+      - coverage/
 
 build:
   stage: build
