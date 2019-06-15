@@ -16,3 +16,7 @@ unit_integration_tests:
   stage: test
   script:
     - npm run test
+
+build:
+  stage: build
+  script: npm run build
