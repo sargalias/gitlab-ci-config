@@ -26,3 +26,9 @@ unit_integration_tests:
 build:
   stage: build
   script: npm run build
+
+test_e2e:
+  stage: test-e2e
+  image: cypress/base:10.16.0
+  script:
+    - npm run test:e2e:prebuilt
