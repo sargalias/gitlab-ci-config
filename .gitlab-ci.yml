@@ -8,6 +8,7 @@ cache:
 stages:
   - test
   - build
+  - test-e2e
 
 before_script:
   - npm install
