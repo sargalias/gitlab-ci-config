@@ -11,7 +11,7 @@ stages:
   - test-e2e
 
 before_script:
-  - npm install
+  - npm ci
 
 unit_integration_tests:
   stage: test
