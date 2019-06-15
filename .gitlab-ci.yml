@@ -1,6 +1,9 @@
 image: node:alpine
 # image: node:latest
 
+before_script:
+  - npm install
+
 empty_job:
   script:
     - ''
