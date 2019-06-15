@@ -1,0 +1,23 @@
+h1,
+h2,
+h3,
+p,
+li,
+a {
+  font-family: Lato, sans-serif;
+}
+
+li,
+p,
+a {
+  font-size: var(--font-size-base);
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--color-accent-soft);
+  }
+}

@@ -1,0 +1,6 @@
+.Controls {
+  @include container-sm();
+
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,3128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test 1`] = `
+<div>
+  <div
+    class=""
+  >
+    <main>
+      <div
+        class="_lightBrightApp"
+      >
+        <header
+          class="_mainContentHeader"
+        >
+          <h1>
+            Light Bright
+          </h1>
+        </header>
+        <div
+          class="_lightBrightInteractiveArea"
+        >
+          <div
+            class="_controls"
+          >
+            <button
+              class=""
+              data-testid="resetLastColorBtn"
+              id="resetLastColorBtn"
+              type="button"
+            >
+              Reset last color
+            </button>
+            <button
+              class=""
+              data-testid="resetAllBtn"
+              id="resetAllBtn"
+              type="button"
+            >
+              Reset all
+            </button>
+          </div>
+          <div
+            class=""
+            data-testid="board"
+            role="presentation"
+          >
+            <button
+              aria-label="Cell 0"
+              class="
+        Cell 
+      
+      "
+              data-cell="0"
+              data-testid="0"
+              type="button"
+            />
+            <button
+              aria-label="Cell 1"
+              class="
+        Cell 
+      
+      "
+              data-cell="1"
+              data-testid="1"
+              type="button"
+            />
+            <button
+              aria-label="Cell 2"
+              class="
+        Cell 
+      
+      "
+              data-cell="2"
+              data-testid="2"
+              type="button"
+            />
+            <button
+              aria-label="Cell 3"
+              class="
+        Cell 
+      
+      "
+              data-cell="3"
+              data-testid="3"
+              type="button"
+            />
+            <button
+              aria-label="Cell 4"
+              class="
+        Cell 
+      
+      "
+              data-cell="4"
+              data-testid="4"
+              type="button"
+            />
+            <button
+              aria-label="Cell 5"
+              class="
+        Cell 
+      
+      "
+              data-cell="5"
+              data-testid="5"
+              type="button"
+            />
+            <button
+              aria-label="Cell 6"
+              class="
+        Cell 
+      
+      "
+              data-cell="6"
+              data-testid="6"
+              type="button"
+            />
+            <button
+              aria-label="Cell 7"
+              class="
+        Cell 
+      
+      "
+              data-cell="7"
+              data-testid="7"
+              type="button"
+            />
+            <button
+              aria-label="Cell 8"
+              class="
+        Cell 
+      
+      "
+              data-cell="8"
+              data-testid="8"
+              type="button"
+            />
+            <button
+              aria-label="Cell 9"
+              class="
+        Cell 
+      
+      "
+              data-cell="9"
+              data-testid="9"
+              type="button"
+            />
+            <button
+              aria-label="Cell 10"
+              class="
+        Cell 
+      
+      "
+              data-cell="10"
+              data-testid="10"
+              type="button"
+            />
+            <button
+              aria-label="Cell 11"
+              class="
+        Cell 
+      
+      "
+              data-cell="11"
+              data-testid="11"
+              type="button"
+            />
+            <button
+              aria-label="Cell 12"
+              class="
+        Cell 
+      
+      "
+              data-cell="12"
+              data-testid="12"
+              type="button"
+            />
+            <button
+              aria-label="Cell 13"
+              class="
+        Cell 
+      
+      "
+              data-cell="13"
+              data-testid="13"
+              type="button"
+            />
+            <button
+              aria-label="Cell 14"
+              class="
+        Cell 
+      
+      "
+              data-cell="14"
+              data-testid="14"
+              type="button"
+            />
+            <button
+              aria-label="Cell 15"
+              class="
+        Cell 
+      
+      "
+              data-cell="15"
+              data-testid="15"
+              type="button"
+            />
+            <button
+              aria-label="Cell 16"
+              class="
+        Cell 
+      
+      "
+              data-cell="16"
+              data-testid="16"
+              type="button"
+            />
+            <button
+              aria-label="Cell 17"
+              class="
+        Cell 
+      
+      "
+              data-cell="17"
+              data-testid="17"
+              type="button"
+            />
+            <button
+              aria-label="Cell 18"
+              class="
+        Cell 
+      
+      "
+              data-cell="18"
+              data-testid="18"
+              type="button"
+            />
+            <button
+              aria-label="Cell 19"
+              class="
+        Cell 
+      
+      "
+              data-cell="19"
+              data-testid="19"
+              type="button"
+            />
+            <button
+              aria-label="Cell 20"
+              class="
+        Cell 
+      
+      "
+              data-cell="20"
+              data-testid="20"
+              type="button"
+            />
+            <button
+              aria-label="Cell 21"
+              class="
+        Cell 
+      
+      "
+              data-cell="21"
+              data-testid="21"
+              type="button"
+            />
+            <button
+              aria-label="Cell 22"
+              class="
+        Cell 
+      
+      "
+              data-cell="22"
+              data-testid="22"
+              type="button"
+            />
+            <button
+              aria-label="Cell 23"
+              class="
+        Cell 
+      
+      "
+              data-cell="23"
+              data-testid="23"
+              type="button"
+            />
+            <button
+              aria-label="Cell 24"
+              class="
+        Cell 
+      
+      "
+              data-cell="24"
+              data-testid="24"
+              type="button"
+            />
+            <button
+              aria-label="Cell 25"
+              class="
+        Cell 
+      
+      "
+              data-cell="25"
+              data-testid="25"
+              type="button"
+            />
+            <button
+              aria-label="Cell 26"
+              class="
+        Cell 
+      
+      "
+              data-cell="26"
+              data-testid="26"
+              type="button"
+            />
+            <button
+              aria-label="Cell 27"
+              class="
+        Cell 
+      
+      "
+              data-cell="27"
+              data-testid="27"
+              type="button"
+            />
+            <button
+              aria-label="Cell 28"
+              class="
+        Cell 
+      
+      "
+              data-cell="28"
+              data-testid="28"
+              type="button"
+            />
+            <button
+              aria-label="Cell 29"
+              class="
+        Cell 
+      
+      "
+              data-cell="29"
+              data-testid="29"
+              type="button"
+            />
+            <button
+              aria-label="Cell 30"
+              class="
+        Cell 
+      
+      "
+              data-cell="30"
+              data-testid="30"
+              type="button"
+            />
+            <button
+              aria-label="Cell 31"
+              class="
+        Cell 
+      
+      "
+              data-cell="31"
+              data-testid="31"
+              type="button"
+            />
+            <button
+              aria-label="Cell 32"
+              class="
+        Cell 
+      
+      "
+              data-cell="32"
+              data-testid="32"
+              type="button"
+            />
+            <button
+              aria-label="Cell 33"
+              class="
+        Cell 
+      
+      "
+              data-cell="33"
+              data-testid="33"
+              type="button"
+            />
+            <button
+              aria-label="Cell 34"
+              class="
+        Cell 
+      
+      "
+              data-cell="34"
+              data-testid="34"
+              type="button"
+            />
+            <button
+              aria-label="Cell 35"
+              class="
+        Cell 
+      
+      "
+              data-cell="35"
+              data-testid="35"
+              type="button"
+            />
+            <button
+              aria-label="Cell 36"
+              class="
+        Cell 
+      
+      "
+              data-cell="36"
+              data-testid="36"
+              type="button"
+            />
+            <button
+              aria-label="Cell 37"
+              class="
+        Cell 
+      
+      "
+              data-cell="37"
+              data-testid="37"
+              type="button"
+            />
+            <button
+              aria-label="Cell 38"
+              class="
+        Cell 
+      
+      "
+              data-cell="38"
+              data-testid="38"
+              type="button"
+            />
+            <button
+              aria-label="Cell 39"
+              class="
+        Cell 
+      
+      "
+              data-cell="39"
+              data-testid="39"
+              type="button"
+            />
+            <button
+              aria-label="Cell 40"
+              class="
+        Cell 
+      
+      "
+              data-cell="40"
+              data-testid="40"
+              type="button"
+            />
+            <button
+              aria-label="Cell 41"
+              class="
+        Cell 
+      
+      "
+              data-cell="41"
+              data-testid="41"
+              type="button"
+            />
+            <button
+              aria-label="Cell 42"
+              class="
+        Cell 
+      
+      "
+              data-cell="42"
+              data-testid="42"
+              type="button"
+            />
+            <button
+              aria-label="Cell 43"
+              class="
+        Cell 
+      
+      "
+              data-cell="43"
+              data-testid="43"
+              type="button"
+            />
+            <button
+              aria-label="Cell 44"
+              class="
+        Cell 
+      
+      "
+              data-cell="44"
+              data-testid="44"
+              type="button"
+            />
+            <button
+              aria-label="Cell 45"
+              class="
+        Cell 
+      
+      "
+              data-cell="45"
+              data-testid="45"
+              type="button"
+            />
+            <button
+              aria-label="Cell 46"
+              class="
+        Cell 
+      
+      "
+              data-cell="46"
+              data-testid="46"
+              type="button"
+            />
+            <button
+              aria-label="Cell 47"
+              class="
+        Cell 
+      
+      "
+              data-cell="47"
+              data-testid="47"
+              type="button"
+            />
+            <button
+              aria-label="Cell 48"
+              class="
+        Cell 
+      
+      "
+              data-cell="48"
+              data-testid="48"
+              type="button"
+            />
+            <button
+              aria-label="Cell 49"
+              class="
+        Cell 
+      
+      "
+              data-cell="49"
+              data-testid="49"
+              type="button"
+            />
+            <button
+              aria-label="Cell 50"
+              class="
+        Cell 
+      
+      "
+              data-cell="50"
+              data-testid="50"
+              type="button"
+            />
+            <button
+              aria-label="Cell 51"
+              class="
+        Cell 
+      
+      "
+              data-cell="51"
+              data-testid="51"
+              type="button"
+            />
+            <button
+              aria-label="Cell 52"
+              class="
+        Cell 
+      
+      "
+              data-cell="52"
+              data-testid="52"
+              type="button"
+            />
+            <button
+              aria-label="Cell 53"
+              class="
+        Cell 
+      
+      "
+              data-cell="53"
+              data-testid="53"
+              type="button"
+            />
+            <button
+              aria-label="Cell 54"
+              class="
+        Cell 
+      
+      "
+              data-cell="54"
+              data-testid="54"
+              type="button"
+            />
+            <button
+              aria-label="Cell 55"
+              class="
+        Cell 
+      
+      "
+              data-cell="55"
+              data-testid="55"
+              type="button"
+            />
+            <button
+              aria-label="Cell 56"
+              class="
+        Cell 
+      
+      "
+              data-cell="56"
+              data-testid="56"
+              type="button"
+            />
+            <button
+              aria-label="Cell 57"
+              class="
+        Cell 
+      
+      "
+              data-cell="57"
+              data-testid="57"
+              type="button"
+            />
+            <button
+              aria-label="Cell 58"
+              class="
+        Cell 
+      
+      "
+              data-cell="58"
+              data-testid="58"
+              type="button"
+            />
+            <button
+              aria-label="Cell 59"
+              class="
+        Cell 
+      
+      "
+              data-cell="59"
+              data-testid="59"
+              type="button"
+            />
+            <button
+              aria-label="Cell 60"
+              class="
+        Cell 
+      
+      "
+              data-cell="60"
+              data-testid="60"
+              type="button"
+            />
+            <button
+              aria-label="Cell 61"
+              class="
+        Cell 
+      
+      "
+              data-cell="61"
+              data-testid="61"
+              type="button"
+            />
+            <button
+              aria-label="Cell 62"
+              class="
+        Cell 
+      
+      "
+              data-cell="62"
+              data-testid="62"
+              type="button"
+            />
+            <button
+              aria-label="Cell 63"
+              class="
+        Cell 
+      
+      "
+              data-cell="63"
+              data-testid="63"
+              type="button"
+            />
+            <button
+              aria-label="Cell 64"
+              class="
+        Cell 
+      
+      "
+              data-cell="64"
+              data-testid="64"
+              type="button"
+            />
+            <button
+              aria-label="Cell 65"
+              class="
+        Cell 
+      
+      "
+              data-cell="65"
+              data-testid="65"
+              type="button"
+            />
+            <button
+              aria-label="Cell 66"
+              class="
+        Cell 
+      
+      "
+              data-cell="66"
+              data-testid="66"
+              type="button"
+            />
+            <button
+              aria-label="Cell 67"
+              class="
+        Cell 
+      
+      "
+              data-cell="67"
+              data-testid="67"
+              type="button"
+            />
+            <button
+              aria-label="Cell 68"
+              class="
+        Cell 
+      
+      "
+              data-cell="68"
+              data-testid="68"
+              type="button"
+            />
+            <button
+              aria-label="Cell 69"
+              class="
+        Cell 
+      
+      "
+              data-cell="69"
+              data-testid="69"
+              type="button"
+            />
+            <button
+              aria-label="Cell 70"
+              class="
+        Cell 
+      
+      "
+              data-cell="70"
+              data-testid="70"
+              type="button"
+            />
+            <button
+              aria-label="Cell 71"
+              class="
+        Cell 
+      
+      "
+              data-cell="71"
+              data-testid="71"
+              type="button"
+            />
+            <button
+              aria-label="Cell 72"
+              class="
+        Cell 
+      
+      "
+              data-cell="72"
+              data-testid="72"
+              type="button"
+            />
+            <button
+              aria-label="Cell 73"
+              class="
+        Cell 
+      
+      "
+              data-cell="73"
+              data-testid="73"
+              type="button"
+            />
+            <button
+              aria-label="Cell 74"
+              class="
+        Cell 
+      
+      "
+              data-cell="74"
+              data-testid="74"
+              type="button"
+            />
+            <button
+              aria-label="Cell 75"
+              class="
+        Cell 
+      
+      "
+              data-cell="75"
+              data-testid="75"
+              type="button"
+            />
+            <button
+              aria-label="Cell 76"
+              class="
+        Cell 
+      
+      "
+              data-cell="76"
+              data-testid="76"
+              type="button"
+            />
+            <button
+              aria-label="Cell 77"
+              class="
+        Cell 
+      
+      "
+              data-cell="77"
+              data-testid="77"
+              type="button"
+            />
+            <button
+              aria-label="Cell 78"
+              class="
+        Cell 
+      
+      "
+              data-cell="78"
+              data-testid="78"
+              type="button"
+            />
+            <button
+              aria-label="Cell 79"
+              class="
+        Cell 
+      
+      "
+              data-cell="79"
+              data-testid="79"
+              type="button"
+            />
+            <button
+              aria-label="Cell 80"
+              class="
+        Cell 
+      
+      "
+              data-cell="80"
+              data-testid="80"
+              type="button"
+            />
+            <button
+              aria-label="Cell 81"
+              class="
+        Cell 
+      
+      "
+              data-cell="81"
+              data-testid="81"
+              type="button"
+            />
+            <button
+              aria-label="Cell 82"
+              class="
+        Cell 
+      
+      "
+              data-cell="82"
+              data-testid="82"
+              type="button"
+            />
+            <button
+              aria-label="Cell 83"
+              class="
+        Cell 
+      
+      "
+              data-cell="83"
+              data-testid="83"
+              type="button"
+            />
+            <button
+              aria-label="Cell 84"
+              class="
+        Cell 
+      
+      "
+              data-cell="84"
+              data-testid="84"
+              type="button"
+            />
+            <button
+              aria-label="Cell 85"
+              class="
+        Cell 
+      
+      "
+              data-cell="85"
+              data-testid="85"
+              type="button"
+            />
+            <button
+              aria-label="Cell 86"
+              class="
+        Cell 
+      
+      "
+              data-cell="86"
+              data-testid="86"
+              type="button"
+            />
+            <button
+              aria-label="Cell 87"
+              class="
+        Cell 
+      
+      "
+              data-cell="87"
+              data-testid="87"
+              type="button"
+            />
+            <button
+              aria-label="Cell 88"
+              class="
+        Cell 
+      
+      "
+              data-cell="88"
+              data-testid="88"
+              type="button"
+            />
+            <button
+              aria-label="Cell 89"
+              class="
+        Cell 
+      
+      "
+              data-cell="89"
+              data-testid="89"
+              type="button"
+            />
+            <button
+              aria-label="Cell 90"
+              class="
+        Cell 
+      
+      "
+              data-cell="90"
+              data-testid="90"
+              type="button"
+            />
+            <button
+              aria-label="Cell 91"
+              class="
+        Cell 
+      
+      "
+              data-cell="91"
+              data-testid="91"
+              type="button"
+            />
+            <button
+              aria-label="Cell 92"
+              class="
+        Cell 
+      
+      "
+              data-cell="92"
+              data-testid="92"
+              type="button"
+            />
+            <button
+              aria-label="Cell 93"
+              class="
+        Cell 
+      
+      "
+              data-cell="93"
+              data-testid="93"
+              type="button"
+            />
+            <button
+              aria-label="Cell 94"
+              class="
+        Cell 
+      
+      "
+              data-cell="94"
+              data-testid="94"
+              type="button"
+            />
+            <button
+              aria-label="Cell 95"
+              class="
+        Cell 
+      
+      "
+              data-cell="95"
+              data-testid="95"
+              type="button"
+            />
+            <button
+              aria-label="Cell 96"
+              class="
+        Cell 
+      
+      "
+              data-cell="96"
+              data-testid="96"
+              type="button"
+            />
+            <button
+              aria-label="Cell 97"
+              class="
+        Cell 
+      
+      "
+              data-cell="97"
+              data-testid="97"
+              type="button"
+            />
+            <button
+              aria-label="Cell 98"
+              class="
+        Cell 
+      
+      "
+              data-cell="98"
+              data-testid="98"
+              type="button"
+            />
+            <button
+              aria-label="Cell 99"
+              class="
+        Cell 
+      
+      "
+              data-cell="99"
+              data-testid="99"
+              type="button"
+            />
+            <button
+              aria-label="Cell 100"
+              class="
+        Cell 
+      
+      "
+              data-cell="100"
+              data-testid="100"
+              type="button"
+            />
+            <button
+              aria-label="Cell 101"
+              class="
+        Cell 
+      
+      "
+              data-cell="101"
+              data-testid="101"
+              type="button"
+            />
+            <button
+              aria-label="Cell 102"
+              class="
+        Cell 
+      
+      "
+              data-cell="102"
+              data-testid="102"
+              type="button"
+            />
+            <button
+              aria-label="Cell 103"
+              class="
+        Cell 
+      
+      "
+              data-cell="103"
+              data-testid="103"
+              type="button"
+            />
+            <button
+              aria-label="Cell 104"
+              class="
+        Cell 
+      
+      "
+              data-cell="104"
+              data-testid="104"
+              type="button"
+            />
+            <button
+              aria-label="Cell 105"
+              class="
+        Cell 
+      
+      "
+              data-cell="105"
+              data-testid="105"
+              type="button"
+            />
+            <button
+              aria-label="Cell 106"
+              class="
+        Cell 
+      
+      "
+              data-cell="106"
+              data-testid="106"
+              type="button"
+            />
+            <button
+              aria-label="Cell 107"
+              class="
+        Cell 
+      
+      "
+              data-cell="107"
+              data-testid="107"
+              type="button"
+            />
+            <button
+              aria-label="Cell 108"
+              class="
+        Cell 
+      
+      "
+              data-cell="108"
+              data-testid="108"
+              type="button"
+            />
+            <button
+              aria-label="Cell 109"
+              class="
+        Cell 
+      
+      "
+              data-cell="109"
+              data-testid="109"
+              type="button"
+            />
+            <button
+              aria-label="Cell 110"
+              class="
+        Cell 
+      
+      "
+              data-cell="110"
+              data-testid="110"
+              type="button"
+            />
+            <button
+              aria-label="Cell 111"
+              class="
+        Cell 
+      
+      "
+              data-cell="111"
+              data-testid="111"
+              type="button"
+            />
+            <button
+              aria-label="Cell 112"
+              class="
+        Cell 
+      
+      "
+              data-cell="112"
+              data-testid="112"
+              type="button"
+            />
+            <button
+              aria-label="Cell 113"
+              class="
+        Cell 
+      
+      "
+              data-cell="113"
+              data-testid="113"
+              type="button"
+            />
+            <button
+              aria-label="Cell 114"
+              class="
+        Cell 
+      
+      "
+              data-cell="114"
+              data-testid="114"
+              type="button"
+            />
+            <button
+              aria-label="Cell 115"
+              class="
+        Cell 
+      
+      "
+              data-cell="115"
+              data-testid="115"
+              type="button"
+            />
+            <button
+              aria-label="Cell 116"
+              class="
+        Cell 
+      
+      "
+              data-cell="116"
+              data-testid="116"
+              type="button"
+            />
+            <button
+              aria-label="Cell 117"
+              class="
+        Cell 
+      
+      "
+              data-cell="117"
+              data-testid="117"
+              type="button"
+            />
+            <button
+              aria-label="Cell 118"
+              class="
+        Cell 
+      
+      "
+              data-cell="118"
+              data-testid="118"
+              type="button"
+            />
+            <button
+              aria-label="Cell 119"
+              class="
+        Cell 
+      
+      "
+              data-cell="119"
+              data-testid="119"
+              type="button"
+            />
+            <button
+              aria-label="Cell 120"
+              class="
+        Cell 
+      
+      "
+              data-cell="120"
+              data-testid="120"
+              type="button"
+            />
+            <button
+              aria-label="Cell 121"
+              class="
+        Cell 
+      
+      "
+              data-cell="121"
+              data-testid="121"
+              type="button"
+            />
+            <button
+              aria-label="Cell 122"
+              class="
+        Cell 
+      
+      "
+              data-cell="122"
+              data-testid="122"
+              type="button"
+            />
+            <button
+              aria-label="Cell 123"
+              class="
+        Cell 
+      
+      "
+              data-cell="123"
+              data-testid="123"
+              type="button"
+            />
+            <button
+              aria-label="Cell 124"
+              class="
+        Cell 
+      
+      "
+              data-cell="124"
+              data-testid="124"
+              type="button"
+            />
+            <button
+              aria-label="Cell 125"
+              class="
+        Cell 
+      
+      "
+              data-cell="125"
+              data-testid="125"
+              type="button"
+            />
+            <button
+              aria-label="Cell 126"
+              class="
+        Cell 
+      
+      "
+              data-cell="126"
+              data-testid="126"
+              type="button"
+            />
+            <button
+              aria-label="Cell 127"
+              class="
+        Cell 
+      
+      "
+              data-cell="127"
+              data-testid="127"
+              type="button"
+            />
+            <button
+              aria-label="Cell 128"
+              class="
+        Cell 
+      
+      "
+              data-cell="128"
+              data-testid="128"
+              type="button"
+            />
+            <button
+              aria-label="Cell 129"
+              class="
+        Cell 
+      
+      "
+              data-cell="129"
+              data-testid="129"
+              type="button"
+            />
+            <button
+              aria-label="Cell 130"
+              class="
+        Cell 
+      
+      "
+              data-cell="130"
+              data-testid="130"
+              type="button"
+            />
+            <button
+              aria-label="Cell 131"
+              class="
+        Cell 
+      
+      "
+              data-cell="131"
+              data-testid="131"
+              type="button"
+            />
+            <button
+              aria-label="Cell 132"
+              class="
+        Cell 
+      
+      "
+              data-cell="132"
+              data-testid="132"
+              type="button"
+            />
+            <button
+              aria-label="Cell 133"
+              class="
+        Cell 
+      
+      "
+              data-cell="133"
+              data-testid="133"
+              type="button"
+            />
+            <button
+              aria-label="Cell 134"
+              class="
+        Cell 
+      
+      "
+              data-cell="134"
+              data-testid="134"
+              type="button"
+            />
+            <button
+              aria-label="Cell 135"
+              class="
+        Cell 
+      
+      "
+              data-cell="135"
+              data-testid="135"
+              type="button"
+            />
+            <button
+              aria-label="Cell 136"
+              class="
+        Cell 
+      
+      "
+              data-cell="136"
+              data-testid="136"
+              type="button"
+            />
+            <button
+              aria-label="Cell 137"
+              class="
+        Cell 
+      
+      "
+              data-cell="137"
+              data-testid="137"
+              type="button"
+            />
+            <button
+              aria-label="Cell 138"
+              class="
+        Cell 
+      
+      "
+              data-cell="138"
+              data-testid="138"
+              type="button"
+            />
+            <button
+              aria-label="Cell 139"
+              class="
+        Cell 
+      
+      "
+              data-cell="139"
+              data-testid="139"
+              type="button"
+            />
+            <button
+              aria-label="Cell 140"
+              class="
+        Cell 
+      
+      "
+              data-cell="140"
+              data-testid="140"
+              type="button"
+            />
+            <button
+              aria-label="Cell 141"
+              class="
+        Cell 
+      
+      "
+              data-cell="141"
+              data-testid="141"
+              type="button"
+            />
+            <button
+              aria-label="Cell 142"
+              class="
+        Cell 
+      
+      "
+              data-cell="142"
+              data-testid="142"
+              type="button"
+            />
+            <button
+              aria-label="Cell 143"
+              class="
+        Cell 
+      
+      "
+              data-cell="143"
+              data-testid="143"
+              type="button"
+            />
+            <button
+              aria-label="Cell 144"
+              class="
+        Cell 
+      
+      "
+              data-cell="144"
+              data-testid="144"
+              type="button"
+            />
+            <button
+              aria-label="Cell 145"
+              class="
+        Cell 
+      
+      "
+              data-cell="145"
+              data-testid="145"
+              type="button"
+            />
+            <button
+              aria-label="Cell 146"
+              class="
+        Cell 
+      
+      "
+              data-cell="146"
+              data-testid="146"
+              type="button"
+            />
+            <button
+              aria-label="Cell 147"
+              class="
+        Cell 
+      
+      "
+              data-cell="147"
+              data-testid="147"
+              type="button"
+            />
+            <button
+              aria-label="Cell 148"
+              class="
+        Cell 
+      
+      "
+              data-cell="148"
+              data-testid="148"
+              type="button"
+            />
+            <button
+              aria-label="Cell 149"
+              class="
+        Cell 
+      
+      "
+              data-cell="149"
+              data-testid="149"
+              type="button"
+            />
+            <button
+              aria-label="Cell 150"
+              class="
+        Cell 
+      
+      "
+              data-cell="150"
+              data-testid="150"
+              type="button"
+            />
+            <button
+              aria-label="Cell 151"
+              class="
+        Cell 
+      
+      "
+              data-cell="151"
+              data-testid="151"
+              type="button"
+            />
+            <button
+              aria-label="Cell 152"
+              class="
+        Cell 
+      
+      "
+              data-cell="152"
+              data-testid="152"
+              type="button"
+            />
+            <button
+              aria-label="Cell 153"
+              class="
+        Cell 
+      
+      "
+              data-cell="153"
+              data-testid="153"
+              type="button"
+            />
+            <button
+              aria-label="Cell 154"
+              class="
+        Cell 
+      
+      "
+              data-cell="154"
+              data-testid="154"
+              type="button"
+            />
+            <button
+              aria-label="Cell 155"
+              class="
+        Cell 
+      
+      "
+              data-cell="155"
+              data-testid="155"
+              type="button"
+            />
+            <button
+              aria-label="Cell 156"
+              class="
+        Cell 
+      
+      "
+              data-cell="156"
+              data-testid="156"
+              type="button"
+            />
+            <button
+              aria-label="Cell 157"
+              class="
+        Cell 
+      
+      "
+              data-cell="157"
+              data-testid="157"
+              type="button"
+            />
+            <button
+              aria-label="Cell 158"
+              class="
+        Cell 
+      
+      "
+              data-cell="158"
+              data-testid="158"
+              type="button"
+            />
+            <button
+              aria-label="Cell 159"
+              class="
+        Cell 
+      
+      "
+              data-cell="159"
+              data-testid="159"
+              type="button"
+            />
+            <button
+              aria-label="Cell 160"
+              class="
+        Cell 
+      
+      "
+              data-cell="160"
+              data-testid="160"
+              type="button"
+            />
+            <button
+              aria-label="Cell 161"
+              class="
+        Cell 
+      
+      "
+              data-cell="161"
+              data-testid="161"
+              type="button"
+            />
+            <button
+              aria-label="Cell 162"
+              class="
+        Cell 
+      
+      "
+              data-cell="162"
+              data-testid="162"
+              type="button"
+            />
+            <button
+              aria-label="Cell 163"
+              class="
+        Cell 
+      
+      "
+              data-cell="163"
+              data-testid="163"
+              type="button"
+            />
+            <button
+              aria-label="Cell 164"
+              class="
+        Cell 
+      
+      "
+              data-cell="164"
+              data-testid="164"
+              type="button"
+            />
+            <button
+              aria-label="Cell 165"
+              class="
+        Cell 
+      
+      "
+              data-cell="165"
+              data-testid="165"
+              type="button"
+            />
+            <button
+              aria-label="Cell 166"
+              class="
+        Cell 
+      
+      "
+              data-cell="166"
+              data-testid="166"
+              type="button"
+            />
+            <button
+              aria-label="Cell 167"
+              class="
+        Cell 
+      
+      "
+              data-cell="167"
+              data-testid="167"
+              type="button"
+            />
+            <button
+              aria-label="Cell 168"
+              class="
+        Cell 
+      
+      "
+              data-cell="168"
+              data-testid="168"
+              type="button"
+            />
+            <button
+              aria-label="Cell 169"
+              class="
+        Cell 
+      
+      "
+              data-cell="169"
+              data-testid="169"
+              type="button"
+            />
+            <button
+              aria-label="Cell 170"
+              class="
+        Cell 
+      
+      "
+              data-cell="170"
+              data-testid="170"
+              type="button"
+            />
+            <button
+              aria-label="Cell 171"
+              class="
+        Cell 
+      
+      "
+              data-cell="171"
+              data-testid="171"
+              type="button"
+            />
+            <button
+              aria-label="Cell 172"
+              class="
+        Cell 
+      
+      "
+              data-cell="172"
+              data-testid="172"
+              type="button"
+            />
+            <button
+              aria-label="Cell 173"
+              class="
+        Cell 
+      
+      "
+              data-cell="173"
+              data-testid="173"
+              type="button"
+            />
+            <button
+              aria-label="Cell 174"
+              class="
+        Cell 
+      
+      "
+              data-cell="174"
+              data-testid="174"
+              type="button"
+            />
+            <button
+              aria-label="Cell 175"
+              class="
+        Cell 
+      
+      "
+              data-cell="175"
+              data-testid="175"
+              type="button"
+            />
+            <button
+              aria-label="Cell 176"
+              class="
+        Cell 
+      
+      "
+              data-cell="176"
+              data-testid="176"
+              type="button"
+            />
+            <button
+              aria-label="Cell 177"
+              class="
+        Cell 
+      
+      "
+              data-cell="177"
+              data-testid="177"
+              type="button"
+            />
+            <button
+              aria-label="Cell 178"
+              class="
+        Cell 
+      
+      "
+              data-cell="178"
+              data-testid="178"
+              type="button"
+            />
+            <button
+              aria-label="Cell 179"
+              class="
+        Cell 
+      
+      "
+              data-cell="179"
+              data-testid="179"
+              type="button"
+            />
+            <button
+              aria-label="Cell 180"
+              class="
+        Cell 
+      
+      "
+              data-cell="180"
+              data-testid="180"
+              type="button"
+            />
+            <button
+              aria-label="Cell 181"
+              class="
+        Cell 
+      
+      "
+              data-cell="181"
+              data-testid="181"
+              type="button"
+            />
+            <button
+              aria-label="Cell 182"
+              class="
+        Cell 
+      
+      "
+              data-cell="182"
+              data-testid="182"
+              type="button"
+            />
+            <button
+              aria-label="Cell 183"
+              class="
+        Cell 
+      
+      "
+              data-cell="183"
+              data-testid="183"
+              type="button"
+            />
+            <button
+              aria-label="Cell 184"
+              class="
+        Cell 
+      
+      "
+              data-cell="184"
+              data-testid="184"
+              type="button"
+            />
+            <button
+              aria-label="Cell 185"
+              class="
+        Cell 
+      
+      "
+              data-cell="185"
+              data-testid="185"
+              type="button"
+            />
+            <button
+              aria-label="Cell 186"
+              class="
+        Cell 
+      
+      "
+              data-cell="186"
+              data-testid="186"
+              type="button"
+            />
+            <button
+              aria-label="Cell 187"
+              class="
+        Cell 
+      
+      "
+              data-cell="187"
+              data-testid="187"
+              type="button"
+            />
+            <button
+              aria-label="Cell 188"
+              class="
+        Cell 
+      
+      "
+              data-cell="188"
+              data-testid="188"
+              type="button"
+            />
+            <button
+              aria-label="Cell 189"
+              class="
+        Cell 
+      
+      "
+              data-cell="189"
+              data-testid="189"
+              type="button"
+            />
+            <button
+              aria-label="Cell 190"
+              class="
+        Cell 
+      
+      "
+              data-cell="190"
+              data-testid="190"
+              type="button"
+            />
+            <button
+              aria-label="Cell 191"
+              class="
+        Cell 
+      
+      "
+              data-cell="191"
+              data-testid="191"
+              type="button"
+            />
+            <button
+              aria-label="Cell 192"
+              class="
+        Cell 
+      
+      "
+              data-cell="192"
+              data-testid="192"
+              type="button"
+            />
+            <button
+              aria-label="Cell 193"
+              class="
+        Cell 
+      
+      "
+              data-cell="193"
+              data-testid="193"
+              type="button"
+            />
+            <button
+              aria-label="Cell 194"
+              class="
+        Cell 
+      
+      "
+              data-cell="194"
+              data-testid="194"
+              type="button"
+            />
+            <button
+              aria-label="Cell 195"
+              class="
+        Cell 
+      
+      "
+              data-cell="195"
+              data-testid="195"
+              type="button"
+            />
+            <button
+              aria-label="Cell 196"
+              class="
+        Cell 
+      
+      "
+              data-cell="196"
+              data-testid="196"
+              type="button"
+            />
+            <button
+              aria-label="Cell 197"
+              class="
+        Cell 
+      
+      "
+              data-cell="197"
+              data-testid="197"
+              type="button"
+            />
+            <button
+              aria-label="Cell 198"
+              class="
+        Cell 
+      
+      "
+              data-cell="198"
+              data-testid="198"
+              type="button"
+            />
+            <button
+              aria-label="Cell 199"
+              class="
+        Cell 
+      
+      "
+              data-cell="199"
+              data-testid="199"
+              type="button"
+            />
+            <button
+              aria-label="Cell 200"
+              class="
+        Cell 
+      
+      "
+              data-cell="200"
+              data-testid="200"
+              type="button"
+            />
+            <button
+              aria-label="Cell 201"
+              class="
+        Cell 
+      
+      "
+              data-cell="201"
+              data-testid="201"
+              type="button"
+            />
+            <button
+              aria-label="Cell 202"
+              class="
+        Cell 
+      
+      "
+              data-cell="202"
+              data-testid="202"
+              type="button"
+            />
+            <button
+              aria-label="Cell 203"
+              class="
+        Cell 
+      
+      "
+              data-cell="203"
+              data-testid="203"
+              type="button"
+            />
+            <button
+              aria-label="Cell 204"
+              class="
+        Cell 
+      
+      "
+              data-cell="204"
+              data-testid="204"
+              type="button"
+            />
+            <button
+              aria-label="Cell 205"
+              class="
+        Cell 
+      
+      "
+              data-cell="205"
+              data-testid="205"
+              type="button"
+            />
+            <button
+              aria-label="Cell 206"
+              class="
+        Cell 
+      
+      "
+              data-cell="206"
+              data-testid="206"
+              type="button"
+            />
+            <button
+              aria-label="Cell 207"
+              class="
+        Cell 
+      
+      "
+              data-cell="207"
+              data-testid="207"
+              type="button"
+            />
+            <button
+              aria-label="Cell 208"
+              class="
+        Cell 
+      
+      "
+              data-cell="208"
+              data-testid="208"
+              type="button"
+            />
+            <button
+              aria-label="Cell 209"
+              class="
+        Cell 
+      
+      "
+              data-cell="209"
+              data-testid="209"
+              type="button"
+            />
+            <button
+              aria-label="Cell 210"
+              class="
+        Cell 
+      
+      "
+              data-cell="210"
+              data-testid="210"
+              type="button"
+            />
+            <button
+              aria-label="Cell 211"
+              class="
+        Cell 
+      
+      "
+              data-cell="211"
+              data-testid="211"
+              type="button"
+            />
+            <button
+              aria-label="Cell 212"
+              class="
+        Cell 
+      
+      "
+              data-cell="212"
+              data-testid="212"
+              type="button"
+            />
+            <button
+              aria-label="Cell 213"
+              class="
+        Cell 
+      
+      "
+              data-cell="213"
+              data-testid="213"
+              type="button"
+            />
+            <button
+              aria-label="Cell 214"
+              class="
+        Cell 
+      
+      "
+              data-cell="214"
+              data-testid="214"
+              type="button"
+            />
+            <button
+              aria-label="Cell 215"
+              class="
+        Cell 
+      
+      "
+              data-cell="215"
+              data-testid="215"
+              type="button"
+            />
+            <button
+              aria-label="Cell 216"
+              class="
+        Cell 
+      
+      "
+              data-cell="216"
+              data-testid="216"
+              type="button"
+            />
+            <button
+              aria-label="Cell 217"
+              class="
+        Cell 
+      
+      "
+              data-cell="217"
+              data-testid="217"
+              type="button"
+            />
+            <button
+              aria-label="Cell 218"
+              class="
+        Cell 
+      
+      "
+              data-cell="218"
+              data-testid="218"
+              type="button"
+            />
+            <button
+              aria-label="Cell 219"
+              class="
+        Cell 
+      
+      "
+              data-cell="219"
+              data-testid="219"
+              type="button"
+            />
+            <button
+              aria-label="Cell 220"
+              class="
+        Cell 
+      
+      "
+              data-cell="220"
+              data-testid="220"
+              type="button"
+            />
+            <button
+              aria-label="Cell 221"
+              class="
+        Cell 
+      
+      "
+              data-cell="221"
+              data-testid="221"
+              type="button"
+            />
+            <button
+              aria-label="Cell 222"
+              class="
+        Cell 
+      
+      "
+              data-cell="222"
+              data-testid="222"
+              type="button"
+            />
+            <button
+              aria-label="Cell 223"
+              class="
+        Cell 
+      
+      "
+              data-cell="223"
+              data-testid="223"
+              type="button"
+            />
+            <button
+              aria-label="Cell 224"
+              class="
+        Cell 
+      
+      "
+              data-cell="224"
+              data-testid="224"
+              type="button"
+            />
+            <button
+              aria-label="Cell 225"
+              class="
+        Cell 
+      
+      "
+              data-cell="225"
+              data-testid="225"
+              type="button"
+            />
+            <button
+              aria-label="Cell 226"
+              class="
+        Cell 
+      
+      "
+              data-cell="226"
+              data-testid="226"
+              type="button"
+            />
+            <button
+              aria-label="Cell 227"
+              class="
+        Cell 
+      
+      "
+              data-cell="227"
+              data-testid="227"
+              type="button"
+            />
+            <button
+              aria-label="Cell 228"
+              class="
+        Cell 
+      
+      "
+              data-cell="228"
+              data-testid="228"
+              type="button"
+            />
+            <button
+              aria-label="Cell 229"
+              class="
+        Cell 
+      
+      "
+              data-cell="229"
+              data-testid="229"
+              type="button"
+            />
+            <button
+              aria-label="Cell 230"
+              class="
+        Cell 
+      
+      "
+              data-cell="230"
+              data-testid="230"
+              type="button"
+            />
+            <button
+              aria-label="Cell 231"
+              class="
+        Cell 
+      
+      "
+              data-cell="231"
+              data-testid="231"
+              type="button"
+            />
+            <button
+              aria-label="Cell 232"
+              class="
+        Cell 
+      
+      "
+              data-cell="232"
+              data-testid="232"
+              type="button"
+            />
+            <button
+              aria-label="Cell 233"
+              class="
+        Cell 
+      
+      "
+              data-cell="233"
+              data-testid="233"
+              type="button"
+            />
+            <button
+              aria-label="Cell 234"
+              class="
+        Cell 
+      
+      "
+              data-cell="234"
+              data-testid="234"
+              type="button"
+            />
+            <button
+              aria-label="Cell 235"
+              class="
+        Cell 
+      
+      "
+              data-cell="235"
+              data-testid="235"
+              type="button"
+            />
+            <button
+              aria-label="Cell 236"
+              class="
+        Cell 
+      
+      "
+              data-cell="236"
+              data-testid="236"
+              type="button"
+            />
+            <button
+              aria-label="Cell 237"
+              class="
+        Cell 
+      
+      "
+              data-cell="237"
+              data-testid="237"
+              type="button"
+            />
+            <button
+              aria-label="Cell 238"
+              class="
+        Cell 
+      
+      "
+              data-cell="238"
+              data-testid="238"
+              type="button"
+            />
+            <button
+              aria-label="Cell 239"
+              class="
+        Cell 
+      
+      "
+              data-cell="239"
+              data-testid="239"
+              type="button"
+            />
+            <button
+              aria-label="Cell 240"
+              class="
+        Cell 
+      
+      "
+              data-cell="240"
+              data-testid="240"
+              type="button"
+            />
+            <button
+              aria-label="Cell 241"
+              class="
+        Cell 
+      
+      "
+              data-cell="241"
+              data-testid="241"
+              type="button"
+            />
+            <button
+              aria-label="Cell 242"
+              class="
+        Cell 
+      
+      "
+              data-cell="242"
+              data-testid="242"
+              type="button"
+            />
+            <button
+              aria-label="Cell 243"
+              class="
+        Cell 
+      
+      "
+              data-cell="243"
+              data-testid="243"
+              type="button"
+            />
+            <button
+              aria-label="Cell 244"
+              class="
+        Cell 
+      
+      "
+              data-cell="244"
+              data-testid="244"
+              type="button"
+            />
+            <button
+              aria-label="Cell 245"
+              class="
+        Cell 
+      
+      "
+              data-cell="245"
+              data-testid="245"
+              type="button"
+            />
+            <button
+              aria-label="Cell 246"
+              class="
+        Cell 
+      
+      "
+              data-cell="246"
+              data-testid="246"
+              type="button"
+            />
+            <button
+              aria-label="Cell 247"
+              class="
+        Cell 
+      
+      "
+              data-cell="247"
+              data-testid="247"
+              type="button"
+            />
+            <button
+              aria-label="Cell 248"
+              class="
+        Cell 
+      
+      "
+              data-cell="248"
+              data-testid="248"
+              type="button"
+            />
+            <button
+              aria-label="Cell 249"
+              class="
+        Cell 
+      
+      "
+              data-cell="249"
+              data-testid="249"
+              type="button"
+            />
+            <button
+              aria-label="Cell 250"
+              class="
+        Cell 
+      
+      "
+              data-cell="250"
+              data-testid="250"
+              type="button"
+            />
+            <button
+              aria-label="Cell 251"
+              class="
+        Cell 
+      
+      "
+              data-cell="251"
+              data-testid="251"
+              type="button"
+            />
+            <button
+              aria-label="Cell 252"
+              class="
+        Cell 
+      
+      "
+              data-cell="252"
+              data-testid="252"
+              type="button"
+            />
+            <button
+              aria-label="Cell 253"
+              class="
+        Cell 
+      
+      "
+              data-cell="253"
+              data-testid="253"
+              type="button"
+            />
+            <button
+              aria-label="Cell 254"
+              class="
+        Cell 
+      
+      "
+              data-cell="254"
+              data-testid="254"
+              type="button"
+            />
+            <button
+              aria-label="Cell 255"
+              class="
+        Cell 
+      
+      "
+              data-cell="255"
+              data-testid="255"
+              type="button"
+            />
+            <button
+              aria-label="Cell 256"
+              class="
+        Cell 
+      
+      "
+              data-cell="256"
+              data-testid="256"
+              type="button"
+            />
+            <button
+              aria-label="Cell 257"
+              class="
+        Cell 
+      
+      "
+              data-cell="257"
+              data-testid="257"
+              type="button"
+            />
+            <button
+              aria-label="Cell 258"
+              class="
+        Cell 
+      
+      "
+              data-cell="258"
+              data-testid="258"
+              type="button"
+            />
+            <button
+              aria-label="Cell 259"
+              class="
+        Cell 
+      
+      "
+              data-cell="259"
+              data-testid="259"
+              type="button"
+            />
+            <button
+              aria-label="Cell 260"
+              class="
+        Cell 
+      
+      "
+              data-cell="260"
+              data-testid="260"
+              type="button"
+            />
+            <button
+              aria-label="Cell 261"
+              class="
+        Cell 
+      
+      "
+              data-cell="261"
+              data-testid="261"
+              type="button"
+            />
+            <button
+              aria-label="Cell 262"
+              class="
+        Cell 
+      
+      "
+              data-cell="262"
+              data-testid="262"
+              type="button"
+            />
+            <button
+              aria-label="Cell 263"
+              class="
+        Cell 
+      
+      "
+              data-cell="263"
+              data-testid="263"
+              type="button"
+            />
+            <button
+              aria-label="Cell 264"
+              class="
+        Cell 
+      
+      "
+              data-cell="264"
+              data-testid="264"
+              type="button"
+            />
+            <button
+              aria-label="Cell 265"
+              class="
+        Cell 
+      
+      "
+              data-cell="265"
+              data-testid="265"
+              type="button"
+            />
+            <button
+              aria-label="Cell 266"
+              class="
+        Cell 
+      
+      "
+              data-cell="266"
+              data-testid="266"
+              type="button"
+            />
+            <button
+              aria-label="Cell 267"
+              class="
+        Cell 
+      
+      "
+              data-cell="267"
+              data-testid="267"
+              type="button"
+            />
+            <button
+              aria-label="Cell 268"
+              class="
+        Cell 
+      
+      "
+              data-cell="268"
+              data-testid="268"
+              type="button"
+            />
+            <button
+              aria-label="Cell 269"
+              class="
+        Cell 
+      
+      "
+              data-cell="269"
+              data-testid="269"
+              type="button"
+            />
+            <button
+              aria-label="Cell 270"
+              class="
+        Cell 
+      
+      "
+              data-cell="270"
+              data-testid="270"
+              type="button"
+            />
+            <button
+              aria-label="Cell 271"
+              class="
+        Cell 
+      
+      "
+              data-cell="271"
+              data-testid="271"
+              type="button"
+            />
+            <button
+              aria-label="Cell 272"
+              class="
+        Cell 
+      
+      "
+              data-cell="272"
+              data-testid="272"
+              type="button"
+            />
+            <button
+              aria-label="Cell 273"
+              class="
+        Cell 
+      
+      "
+              data-cell="273"
+              data-testid="273"
+              type="button"
+            />
+            <button
+              aria-label="Cell 274"
+              class="
+        Cell 
+      
+      "
+              data-cell="274"
+              data-testid="274"
+              type="button"
+            />
+            <button
+              aria-label="Cell 275"
+              class="
+        Cell 
+      
+      "
+              data-cell="275"
+              data-testid="275"
+              type="button"
+            />
+            <button
+              aria-label="Cell 276"
+              class="
+        Cell 
+      
+      "
+              data-cell="276"
+              data-testid="276"
+              type="button"
+            />
+            <button
+              aria-label="Cell 277"
+              class="
+        Cell 
+      
+      "
+              data-cell="277"
+              data-testid="277"
+              type="button"
+            />
+            <button
+              aria-label="Cell 278"
+              class="
+        Cell 
+      
+      "
+              data-cell="278"
+              data-testid="278"
+              type="button"
+            />
+            <button
+              aria-label="Cell 279"
+              class="
+        Cell 
+      
+      "
+              data-cell="279"
+              data-testid="279"
+              type="button"
+            />
+            <button
+              aria-label="Cell 280"
+              class="
+        Cell 
+      
+      "
+              data-cell="280"
+              data-testid="280"
+              type="button"
+            />
+            <button
+              aria-label="Cell 281"
+              class="
+        Cell 
+      
+      "
+              data-cell="281"
+              data-testid="281"
+              type="button"
+            />
+            <button
+              aria-label="Cell 282"
+              class="
+        Cell 
+      
+      "
+              data-cell="282"
+              data-testid="282"
+              type="button"
+            />
+            <button
+              aria-label="Cell 283"
+              class="
+        Cell 
+      
+      "
+              data-cell="283"
+              data-testid="283"
+              type="button"
+            />
+            <button
+              aria-label="Cell 284"
+              class="
+        Cell 
+      
+      "
+              data-cell="284"
+              data-testid="284"
+              type="button"
+            />
+            <button
+              aria-label="Cell 285"
+              class="
+        Cell 
+      
+      "
+              data-cell="285"
+              data-testid="285"
+              type="button"
+            />
+            <button
+              aria-label="Cell 286"
+              class="
+        Cell 
+      
+      "
+              data-cell="286"
+              data-testid="286"
+              type="button"
+            />
+            <button
+              aria-label="Cell 287"
+              class="
+        Cell 
+      
+      "
+              data-cell="287"
+              data-testid="287"
+              type="button"
+            />
+            <button
+              aria-label="Cell 288"
+              class="
+        Cell 
+      
+      "
+              data-cell="288"
+              data-testid="288"
+              type="button"
+            />
+            <button
+              aria-label="Cell 289"
+              class="
+        Cell 
+      
+      "
+              data-cell="289"
+              data-testid="289"
+              type="button"
+            />
+            <button
+              aria-label="Cell 290"
+              class="
+        Cell 
+      
+      "
+              data-cell="290"
+              data-testid="290"
+              type="button"
+            />
+            <button
+              aria-label="Cell 291"
+              class="
+        Cell 
+      
+      "
+              data-cell="291"
+              data-testid="291"
+              type="button"
+            />
+            <button
+              aria-label="Cell 292"
+              class="
+        Cell 
+      
+      "
+              data-cell="292"
+              data-testid="292"
+              type="button"
+            />
+            <button
+              aria-label="Cell 293"
+              class="
+        Cell 
+      
+      "
+              data-cell="293"
+              data-testid="293"
+              type="button"
+            />
+            <button
+              aria-label="Cell 294"
+              class="
+        Cell 
+      
+      "
+              data-cell="294"
+              data-testid="294"
+              type="button"
+            />
+            <button
+              aria-label="Cell 295"
+              class="
+        Cell 
+      
+      "
+              data-cell="295"
+              data-testid="295"
+              type="button"
+            />
+            <button
+              aria-label="Cell 296"
+              class="
+        Cell 
+      
+      "
+              data-cell="296"
+              data-testid="296"
+              type="button"
+            />
+            <button
+              aria-label="Cell 297"
+              class="
+        Cell 
+      
+      "
+              data-cell="297"
+              data-testid="297"
+              type="button"
+            />
+            <button
+              aria-label="Cell 298"
+              class="
+        Cell 
+      
+      "
+              data-cell="298"
+              data-testid="298"
+              type="button"
+            />
+            <button
+              aria-label="Cell 299"
+              class="
+        Cell 
+      
+      "
+              data-cell="299"
+              data-testid="299"
+              type="button"
+            />
+          </div>
+        </div>
+        <section
+          class="_instructions"
+        >
+          <h2
+            class="_heading"
+          >
+            Instructions
+          </h2>
+          <ul>
+            <li>
+              <strong>
+                Click:
+              </strong>
+               Paint a circle with a unique color.
+            </li>
+            <li>
+              <strong>
+                Click on a circle, then drag:
+              </strong>
+               Generate a unique color and paint circles with it.
+            </li>
+            <li>
+              <strong>
+                Double click:
+              </strong>
+               Unpaint the circle.
+            </li>
+            <li>
+              <strong>
+                Reset last color:
+              </strong>
+               Unpaint the most recently painted circles.
+            </li>
+            <li>
+              <strong>
+                Reset all:
+              </strong>
+               Unpaint all circles.
+            </li>
+          </ul>
+        </section>
+      </div>
+    </main>
+    <div
+      class=""
+    >
+      <div
+        class="_container"
+      >
+        <p
+          class="_text"
+        >
+          By
+           
+          <a
+            href="https://sargalias.com"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            Spyros Argalias
+          </a>
+        </p>
+        <p
+          class="_text"
+        >
+          View code on
+           
+          <a
+            href="https://github.com/sargalias/light-bright"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            GitHub
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

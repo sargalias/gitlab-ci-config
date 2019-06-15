@@ -1,0 +1,25 @@
+@import './variables';
+
+@mixin container-sm() {
+  max-width: var(--max-width-sm);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@mixin container-md() {
+  max-width: var(--max-width-md);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@mixin container-lg() {
+  max-width: var(--max-width-lg);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@mixin media-up($br) {
+  @media screen and (min-width: $br) {
+    @content;
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "airbnb",
+    "plugin:prettier/recommended",
+    "plugin:array-func/all",
+    "plugin:promise/recommended",
+    "plugin:security/recommended",
+    "plugin:jest/recommended",
+    "plugin:cypress/recommended"
+  ],
+  "plugins": [
+    "no-use-extend-native",
+    "promise",
+    "xss",
+    "jest",
+    "cypress",
+    "import",
+    "react-hooks"
+  ],
+  "rules": {
+    "no-plusplus": 0,
+    "no-use-before-define": 0,
+    "promise/catch-or-return": 0,
+    "promise/always-return": 0,
+    "promise/valid-params": 2,
+    "promise/prefer-await-to-then": 1,
+    "promise/prefer-await-to-callbacks": 1,
+    "xss/no-mixed-html": 1,
+    "xss/no-location-href-assign": 1,
+    "react/prop-types": 0,
+    "react/jsx-one-expression-per-line": 0,
+    "react-hooks/rules-of-hooks": 2,
+    "react-hooks/exhaustive-deps": 1,
+    "import/named": 0,
+    "security/detect-object-injection": 0
+  },
+  "env": {
+    "browser": true,
+    "jest": true,
+    "cypress/globals": true
+  },
+  "overrides": [
+    {
+      "files": ["*_spec.js"],
+      "rules": {
+        "jest/valid-expect": 0
+      }
+    }
+  ],
+  "settings": {
+    "import/resolver": {
+      "webpack": {
+        "config": "webpack.prod.js"
+      }
+    }
+  }
+}

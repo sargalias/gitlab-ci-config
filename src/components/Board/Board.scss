@@ -1,0 +1,22 @@
+.board {
+  display: grid;
+  overflow: hidden;
+  max-height: var(--max-height-board);
+  align-items: center;
+  border: var(--border);
+  border-color: var(--color-border-board);
+  border-radius: var(--border-radius-sm);
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(calc(var(--cell-size) * 1.1), 1fr)
+  );
+  grid-template-rows: repeat(
+    auto-fit,
+    minmax(calc(var(--cell-size) * 1.1), 1fr)
+  );
+  justify-items: center;
+
+  @include media-up($br-sm) {
+    padding: 0.5rem;
+  }
+}

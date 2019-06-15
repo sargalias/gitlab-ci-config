@@ -1,0 +1,7 @@
+.Instructions {
+  @include container-sm();
+
+  &_heading {
+    text-align: center;
+  }
+}

@@ -1,0 +1,17 @@
+.LightBrightApp {
+  @include container-lg();
+
+  &_mainContentHeader {
+    margin: var(--m-heading);
+  }
+
+  &_lightBrightInteractiveArea {
+    margin-bottom: var(--m-section);
+  }
+
+  &_instructions {
+    margin-bottom: var(--m-section);
+  }
+
+  padding: 0 var(--p-min);
+}

@@ -1,0 +1,35 @@
+:root {
+  // Colors
+  --color-accent: #fc4a1a;
+  --color-accent-soft: #fc4a1a99;
+  --color-transparent: transparent;
+  --color-border-board: #000000;
+  --color-border-cell: #333333;
+  --color-footer: lightblue;
+
+  // Spacing
+  --m-heading: 2rem;
+  --m-section: 2rem;
+  --p-min: 0;
+
+  // Board
+  --cell-size: 2.5rem;
+  --max-height-board: 150rem;
+
+  // Other
+  --max-width-sm: 30rem;
+  --max-width-md: 40rem;
+  --max-width-lg: 60rem;
+  --border: 1px solid #000000;
+  --border-radius-sm: 0.2rem;
+  --font-size-base: 1rem;
+
+  @include media-up($br-sm) {
+    --p-min: 1rem;
+    --m-heading: 3rem;
+  }
+
+  @include media-up($br-md) {
+    --font-size-base: 1.2rem;
+  }
+}

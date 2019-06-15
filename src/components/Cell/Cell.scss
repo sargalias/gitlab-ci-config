@@ -1,0 +1,28 @@
+.Cell {
+  --saturation: 100%;
+  --lightness-dark: 50%;
+  --lightness-light: 100%;
+  --lightness-normal: 80%;
+
+  width: var(--cell-size);
+  height: var(--cell-size);
+  border: var(--border);
+  border-color: var(--border-color-cell);
+  background-color: var(--color-transparent);
+  border-radius: 50%;
+  user-select: none;
+
+  &___isOn {
+    --color-1: hsl(var(--hue), var(--saturation), var(--lightness-light));
+    --color-2: hsl(var(--hue), var(--saturation), var(--lightness-dark));
+    --color-3: hsl(var(--hue), var(--saturation), var(--lightness-normal));
+
+    background-image: radial-gradient(
+      var(--color-1),
+      var(--color-2),
+      var(--color-3)
+    );
+
+    box-shadow: 0 0 1rem var(--color-3);
+  }
+}

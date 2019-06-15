@@ -1,0 +1,20 @@
+.Button {
+  padding: 0.5rem;
+  border: var(--border);
+  border-color: var(--color-accent-soft);
+  margin: 0 1rem;
+  background-color: var(--color-transparent);
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  transition: color 0.2s, border-color 0.2s;
+
+  &:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+  }
+
+  @include media-up($br-sm) {
+    padding: 1rem;
+  }
+}
