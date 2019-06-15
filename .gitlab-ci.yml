@@ -1,4 +1,5 @@
 image: node:alpine
+# image: node:latest
 
 empty_job:
   script:
