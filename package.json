@@ -31,6 +31,10 @@
     "email": "sargalias@gmail.com",
     "url": "https://sargalias.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sargalias/gitlab-ci-config.git"
+  },
   "license": "MIT",
   "dependencies": {
     "array-shuffle": "1.0.1",
