@@ -5,9 +5,13 @@ cache:
   paths:
     - node_modules/
 
+stages:
+  - test
+
 before_script:
   - npm install
 
 empty_job:
+  stage: test
   script:
     - ''
