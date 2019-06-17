@@ -9,6 +9,7 @@ A simple Gitlab CI config for front end projects.
   - [Running the sample project locally](#Running-the-sample-project-locally)
 - [Usage](#Usage)
 - [Built with](#Built-with)
+- [License](#License)
 
 ## Features
 
@@ -63,3 +64,7 @@ The GitLab CI should run and follow the instructions in the `.gitlab-ci.yml` fil
 ## Built with
 - [GitLab CI](https://about.gitlab.com/product/continuous-integration/)
 - Also see the [sample project README](sample-project-README.md) for information on what it was built with.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
