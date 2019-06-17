@@ -50,3 +50,8 @@ Please see the [sample project README](sample-project-README.md).
 3. Push.
 
 The GitLab CI should run and follow the instructions in the `.gitlab-ci.yml` file. In this case it will check to see if all tests pass and if the project builds successfully.
+
+
+## Built with
+- [GitLab CI](https://about.gitlab.com/product/continuous-integration/)
+- Also see the [sample project README](sample-project-README.md) for information on what it was built with.
