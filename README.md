@@ -39,3 +39,14 @@ Next you'll need to set up a repository on GitLab. If your source code is hosted
 Please see the [sample project README](sample-project-README.md).
 
 **Please note that the Git Hook has been removed in this version of the project.**
+
+
+## Usage
+
+1. Make a small change to the sample project. For example, add a new test or some functionality. For example, add a failing test in `src/App.test.jsx`.
+
+2. Commit the change.
+
+3. Push.
+
+The GitLab CI should run and follow the instructions in the `.gitlab-ci.yml` file. In this case it will check to see if all tests pass and if the project builds successfully.
