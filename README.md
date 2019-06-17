@@ -25,3 +25,17 @@ You will also need a [GitLab runner](https://docs.gitlab.com/runner/).
 
 For more information, please see the official [GitLab CI documentation](https://docs.gitlab.com/ee/ci/README.html).
 
+
+### Prerequisites
+
+- GitLab account and repository
+
+You will need a [GitLab](https://about.gitlab.com/) account to use the GitLab runner for CI.
+
+Next you'll need to set up a repository on GitLab. If your source code is hosted on GitLab and has the `.gitlab-ci.yml` file, CI will work automatically. But if it's hosted elsewhere, such as on GitHub, you'll need to connect it to your GitLab repository. Please see the instructions on [GitLab CI/CD for external repositories](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/github_integration.html).
+
+### Running the sample project locally
+
+Please see the [sample project README](sample-project-README.md).
+
+**Please note that the Git Hook has been removed in this version of the project.**
