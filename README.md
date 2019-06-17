@@ -2,6 +2,14 @@
 
 A simple Gitlab CI config for front end projects.
 
+## Table of contents
+- [Features](#Features)
+- [Getting started](#Getting-started)
+  - [Prerequisites](#Prerequisites)
+  - [Running the sample project locally](#Running-the-sample-project-locally)
+- [Usage](#Usage)
+- [Built with](#Built-with)
+
 ## Features
 
   - Node Alpine image (faster runs because it's smaller than the full Node image).
